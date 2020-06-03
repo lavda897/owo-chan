@@ -1,0 +1,9 @@
+discord.py
+praw
+aiml
+requests
+psutil
+rule34
+python-dotenv
+pymongo
+dnspython
